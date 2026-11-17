@@ -1,0 +1,13 @@
+# 라이트/다크는 사용자 시스템 설정을 따르고, 두 테마 모두 초록 포인트 컬러를 쓴다.
+[theme]
+font = "sans-serif"
+baseRadius = "large"
+
+[theme.light]
+primaryColor = "#2E9E5B"
+
+[theme.dark]
+primaryColor = "#4CC38A"
+
+[client]
+toolbarMode = "minimal"
